@@ -1,0 +1,16 @@
+{
+  "1.0.1": {
+    "enablePrivateFunction": false,
+    "loadPlaylistFromServer": false,
+    "supportAC3AndDTS": false
+  },
+
+  "playlist": {
+    "zh": "http://7xpic7.dl1.z0.glb.clouddn.com/programs.dat",
+    "zh-urls" : ["https://raw.githubusercontent.com/TheNewiPangZi/TVPrograms/master/programs.dat"]
+  },
+
+  "logging": {
+    "url": "http://121.42.149.187:61234/logging/playlist"
+  }
+}
